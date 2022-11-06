@@ -1,0 +1,25 @@
+{
+  "name": "britlex",
+  "version": "1.0.0",
+  "description": "Name: Roman Davidovich Date of creation: 07.04.2022 Project name: Britlex",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gryzzlycruise/Britlex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gryzzlycruise/Britlex/issues"
+  },
+  "homepage": "https://github.com/Gryzzlycruise/Britlex#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.4.1",
+    "parcel": "^2.4.1",
+    "sass": "^1.49.11"
+  }
+}
